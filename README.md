@@ -36,9 +36,10 @@ We have divided these in several categories that make them easier to digest.
 * [Procedural World](http://procworld.blogspot.com/): This site is completely dedicated to Procedural Generation. A highly suggested read would be [this page](http://procworld.blogspot.com/2014/01/leveling-lakes.html) which suggests an approach to flatten bumpiness in lake-beds generated due to noise.
 
 ## Information Security
-
 * [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a member of team Alles and makes videos about CTFs, bug hunting and cool vulnerabitlies, focusing primarily on binary exploitation and reverse engineering with occasional content about web security. His binary exploitation series, though a little tough to follow at first, is a great resource for beginners looking to get started in the field of infosec
 * [PortSwigger academy](https://portswigger.net/web-security): PortSwigger offers detailed theory and a number of accompanying practice labs for popular web app vulnerabilities
+* [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw): A youtube channel which regularly posts videos related to information security (mostly CTF related). This channel demonstrates the use of tools used in CTFs.
+* [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g): The official Null Byte channel for video content! They focus on creating videos for aspiring ethical hackers, computer scientists, and the InfoSec community.
 
 ## Language Specific
 

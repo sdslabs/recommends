@@ -5,7 +5,7 @@ This is a collection of all reading material that we reads and recommend everyon
 We have divided these in several categories that make them easier to digest.
 
 # Contents
-* [How to add stuff?](#How-to-add-stuff?)
+* [How to add stuff?](#How-to-add-stuff)
 * [Competitive Programming](#Competitive-Programming)
 * [Developer Operations](#Developer-Operations)
 * [Game Development](#Game-Development)

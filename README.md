@@ -21,6 +21,9 @@ We have divided these in several categories that make them easier to digest.
 * [Game Developers Conference](https://www.gdconf.com/): The Game Developers Conference (GDC) brings the game development community together to exchange ideas, solve problems, and shape the future of the industry across five days of education, inspiration, and networking. Attendees include programmers, artists, producers, game designers, audio professionals, and business leaders. Check out the talks that happen at GDC on [their YouTube channel](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ).
 
 ## Information Security
+* [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a member of team Alles and makes videos about CTFs, bug hunting and cool vulnerabitlies, focusing primarily on binary exploitation and reverse engineering with occasional content about web security. His binary exploitation series, though a little tough to follow at first, is a great resource for beginners looking to get started in the field of infosec
+
+* [PortSwigger academy](https://portswigger.net/web-security): PortSwigger offers detailed theory and a number of accompanying practice labs for popular web app vulnerabilities
 
 ## Software Development
 

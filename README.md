@@ -32,11 +32,12 @@ We have divided these in several categories that make them easier to digest.
 
 ### How to add a new topic?
 
-Open a issue and we will add it in
+Open an issue and we will add it in
 
 ### How to add a new resource under a new topic?
 
-Open a PR that adds it as a normal markdown bullet-point
+Open a PR and add it as a bullet-point.
+
 ```md
 ## Previously Existing Topic
 * my new resource

@@ -1,6 +1,6 @@
 # SDSLabs Recommends
 
-This is a collection of all reading material that we read and recommend you to read with us!
+This is a collection of all resources on technology that we use and recommend you to read with us!
 
 We have divided these in several categories that make them easier to digest.
 

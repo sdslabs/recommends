@@ -17,6 +17,8 @@ We have divided these in several categories that make them easier to digest.
 ## Developer Operations
 
 ## Game Development
+* [r/gamedev](https://www.reddit.com/r/gamedev/): r/GameDev on Reddit is a community of 400K+ game developers that shares the latest techniques, tips and news, all related to the AAA and indie game development industry. You will find interesting project displays, blogs and technical help in this subreddit, all at one place.
+* [Game Developers Conference](https://www.gdconf.com/): The Game Developers Conference (GDC) brings the game development community together to exchange ideas, solve problems, and shape the future of the industry across five days of education, inspiration, and networking. Attendees include programmers, artists, producers, game designers, audio professionals, and business leaders. Check out the talks that happen at GDC on [their YouTube channel](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ).
 
 ## Information Security
 
@@ -28,11 +30,15 @@ We have divided these in several categories that make them easier to digest.
 
 ## Language Specific
 
+### C++
+
+* [TheChernoProject](https://www.youtube.com/user/TheChernoProject): TheCherno has been a quite valuable resource while developing our game engines, viz. [Rubeus](https://github.com/sdslabs/rootex) and [Rootex](https://github.com/sdslabs/rootex) (ongoing). This YouTube channel dives into advanced topics of C++ (although his earlier videos taught Java) occasionally while keeping a solid foundation based on just one thing: Building good C++ software. You will not find any random videos on things you will probably never use.
+
 ## How to add stuff?
 
 ### How to add a new topic?
 
-Open an issue and we will add it in
+Open an issue/a PR and we will add it in
 
 ### How to add a new resource under a new topic?
 

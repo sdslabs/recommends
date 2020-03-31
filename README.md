@@ -14,6 +14,7 @@ We have divided these in several categories that make them easier to digest.
 * [Language Specific](#Language-Specific)
 * [Machine Learning](#Machine-Learning)
 * [Networking](#Networking)
+* [Web Development](#Web-development)
 * [System Administration](#System-Administration)
 * [How to add stuff?](#How-to-add-stuff)
 
@@ -69,6 +70,8 @@ We have divided these in several categories that make them easier to digest.
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/): Beej's Guide to Network Programming is little how-to guide on network programming using Internet sockets, or "sockets programming".
 * [Debian's linux networking guide](http://www.aboutdebian.com/network.htm): Debian's linux networking guide is a helpful resource to understand basics of linux networking along with introduction to concepts like ARP, Encapsulation, Subnetting etc.
 * [netdevconf](https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg): Netdevconf is a community-driven conference geared towards Linux netheads with focus on Linux kernel networking and user space network apps.
+
+## Web Development
 
 ## System Administration
 

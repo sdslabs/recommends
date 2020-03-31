@@ -6,23 +6,31 @@ We have divided these in several categories that make them easier to digest.
 
 # Contents
 
-* [Distributed Systems](#Distributed-Systems)
 * [Competitive Programming](#Competitive-Programming)
+* [Database Systems](#Database-Systems)
+* [Distributed Systems](#Distributed-Systems)
 * [Game Development](#Game-Development)
 * [Information Security](#Information-Security)
 * [Language Specific](#Language-Specific)
 * [Machine Learning](#Machine-Learning)
+* [Networking](#Networking)
 * [Software Development](#Software-Development)
 * [System Administration](#System-Administration)
 * [How to add stuff?](#How-to-add-stuff)
+
+## Competitive Programming
+
+## Database Systems
+
+* [Database Systems Course](https://15445.courses.cs.cmu.edu/fall2019/): Database systems is a course by Andy Pavlo based on the design and implementation of database management systems. The course also includes case studies on open-source and commercial database systems to illustrate design techniques and trade-offs. There are more courses in the [series](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA) by Andy Pavlo focusing of different aspects of database systems.
+* [awesome-database-learning](https://github.com/pingcap/awesome-database-learning): awesome-database-learning is a list of learning materials to understand databases internals, including but not limited to papers, blogs, courses and talks.
+* [Database Internals](https://www.databass.dev/): Database Intenals is a book to deep dive into how distributed data system works. The book contains relevant material gleaned from numerous books, papers, blog posts, and the source code of several open source databases.
 
 ## Distributed Systems
 
 * [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html): Distributed systems for fun and profit is an e-book focused on distributed programming and systems concepts one will need to understand commercial systems in the data center. The book is an excellent starting point for delving into distributed systems programming with resources to dive deep into some concepts.
 * [Designing Data-Intensive Applications](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf): Designing data-intensive applications is an excellent book that bridges the massive gap between distributed systems theory and practical engineering. It helps developers make smart decisions as they design and implement data infrastructure and systems.
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/): Designing Distributed Systems is a 160 pages e-book containing an introduction to distributed system concepts along with a more in-depth explanation for building robust distributed systems.
-
-## Competitive Programming
 
 ## Game Development
 
@@ -48,6 +56,12 @@ We have divided these in several categories that make them easier to digest.
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject): TheCherno has been a quite valuable resource while developing our game engines, viz. [Rubeus](https://github.com/sdslabs/rootex) and [Rootex](https://github.com/sdslabs/rootex) (ongoing). This YouTube channel dives into advanced topics of C++ (although his earlier videos taught Java) occasionally while keeping a solid foundation based on just one thing: Building good C++ software. You will not find any random videos on things you will probably never use.
 
 ## Machine Learning
+
+## Networking
+
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/): Beej's Guide to Network Programming is little how-to guide on network programming using Internet sockets, or "sockets programming".
+* [Debian's linux networking guide](http://www.aboutdebian.com/network.htm): Debian's linux networking guide is a helpful resource to understand basics of linux networking along with introduction to concepts like ARP, Encapsulation, Subnetting etc.
+* [netdevconf](https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg): Netdevconf is a community-driven conference geared towards Linux netheads with focus on Linux kernel networking and user space network apps.
 
 ## Software Development
 

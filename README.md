@@ -14,7 +14,6 @@ We have divided these in several categories that make them easier to digest.
 * [Language Specific](#Language-Specific)
 * [Machine Learning](#Machine-Learning)
 * [Networking](#Networking)
-* [Software Development](#Software-Development)
 * [System Administration](#System-Administration)
 * [How to add stuff?](#How-to-add-stuff)
 
@@ -57,13 +56,17 @@ We have divided these in several categories that make them easier to digest.
 
 ## Machine Learning
 
+* [Stanford CS231n — Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA): This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.
+* [Stanford CS224n — Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6): This lecture series provides a thorough introduction to the cutting-edge research in deep learning applied to NLP, an approach that has recently obtained very high performance across many different NLP tasks including question answering and machine translation.
+* [Deep learning book](https://www.deeplearningbook.org/): This textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.
+* [r/MachineLearning](https://www.reddit.com/r/MachineLearning/): r/MachineLearning on Reddit is a community of 900K+ machine learning enthusiasts that shares the latest research, discussions, projects etc, pertaining to machine learning.
+* [WildML](http://www.wildml.com/): WildML is an excellent blog maintained by Denny Britz focused on Natural Language Understanding and Reinforcement Learning.
+
 ## Networking
 
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/): Beej's Guide to Network Programming is little how-to guide on network programming using Internet sockets, or "sockets programming".
 * [Debian's linux networking guide](http://www.aboutdebian.com/network.htm): Debian's linux networking guide is a helpful resource to understand basics of linux networking along with introduction to concepts like ARP, Encapsulation, Subnetting etc.
 * [netdevconf](https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg): Netdevconf is a community-driven conference geared towards Linux netheads with focus on Linux kernel networking and user space network apps.
-
-## Software Development
 
 ## System Administration
 

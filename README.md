@@ -48,6 +48,8 @@ We have divided these in several categories that make them easier to digest.
 * [PortSwigger academy](https://portswigger.net/web-security): PortSwigger offers detailed theory and a number of accompanying practice labs for popular web app vulnerabilities
 * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw): A youtube channel which regularly posts videos related to information security (mostly CTF related). This channel demonstrates the use of tools used in CTFs.
 * [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g): The official Null Byte channel for video content! They focus on creating videos for aspiring ethical hackers, computer scientists, and the InfoSec community.
+* [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg): This is a complete basic to intermediate level course on Cryptography by Professor Christof Paar. You would love how this course has completely nil (or maybe very minimum) prerequisites.
+* [Matasano Cryptopals](https://cryptopals.com/): This is a set of challenges on Cryptography, covering all the classical topics in Cryptology, this acts as a cherry on top of the above course.
 
 ## Language Specific
 

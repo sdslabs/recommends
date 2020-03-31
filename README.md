@@ -16,6 +16,7 @@ We have divided these in several categories that make them easier to digest.
 * [Networking](#Networking)
 * [Web Development](#Web-development)
 * [System Administration](#System-Administration)
+* [Android Development](#Android-Development)
 * [How to add stuff?](#How-to-add-stuff)
 
 ## Competitive Programming
@@ -83,6 +84,11 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 
 * [SysAdvent](https://sysadvent.blogspot.com/): SysAdvent is a blog that posts one article about system administration for each day of December, with the goal.
 * [KataKoda](https://www.katacoda.com/): Katacoda is an interactive learning and training platform for software developers focusing on system administration. Each student is given access to a new environment without the need to install all the required components by themselves.
+
+## Android Development
+
+* [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2): This is a course made by Google which covers the basics of android development such as activities, intents, lifecycles, minimal UI, broadcast receivers, services, async-tasks and storage.
+* [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview): This course also made by Google focuses on advanced android development topics like fragments, sensors, performance optimization, geo-location, animations, audio/video streaming etc.
 
 ## How to add stuff?
 

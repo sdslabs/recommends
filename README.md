@@ -18,6 +18,9 @@ We have divided these in several categories that make them easier to digest.
 * [How to add stuff?](#How-to-add-stuff)
 
 ## Competitive Programming
+* [CS 97SI Introduction to Competitive Programming](http://web.stanford.edu/class/cs97si/): Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
+* [E-Maxx Algorithms](http://cp-algorithms.com/): A tutorial website which provides descriptions of many algorithms and data structures especially popular in field of competitive programming. 
+* [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms): It's one of the most popular textbooks for university algorithm courses. This book covered various algorithms and data structures in great detail.
 
 ## Database Systems
 

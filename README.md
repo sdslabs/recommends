@@ -73,6 +73,8 @@ We have divided these in several categories that make them easier to digest.
 
 ## Web Development
 
+* [Mozzila Developer Network](https://developer.mozilla.org/en-US/): MDN is the one stop shop for learning all kinds of open web development technologies. You will find the best resources on HTML, CSS, JS, Web APIs, etc.
+
 ## System Administration
 
 * [SysAdvent](https://sysadvent.blogspot.com/): SysAdvent is a blog that posts one article about system administration for each day of December, with the goal.

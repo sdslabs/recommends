@@ -62,6 +62,10 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject): TheCherno has been a quite valuable resource while developing our game engines, viz. [Rubeus](https://github.com/sdslabs/rootex) and [Rootex](https://github.com/sdslabs/rootex) (ongoing). This YouTube channel dives into advanced topics of C++ (although his earlier videos taught Java) occasionally while keeping a solid foundation based on just one thing: Building good C++ software. You will not find any random videos on things you will probably never use.
 
+### Python
+
+* [Sentdex](https://www.youtube.com/user/sentdex): Sendtdex makes beginner friendly videos about everything python. From basic python, to Fask and Django, to Deep learning and sentiment analysis. Sentdex has got it all covered and is a great resource for anyone looking to familiarize themselves with python
+
 ## Machine Learning
 
 * [Stanford CS231n — Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA): This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.

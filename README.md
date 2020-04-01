@@ -72,6 +72,10 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 * [Go by Example](https://gobyexample.com/): Wondering where to start learning Go? The tutorials bore you as hell? Why not learn by implementing mini examples that will keep engrossed till the end. This website covers all the important topics from the classic Hello World to Goroutines to HTTP servers using annotated example programs.  
 * [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/): This Youtube channel features some popular as well as some unconventional takes on Go programming. From trying out Tensorflow Go to gRPC, it unfolds the potential of Go in an interesting way.
 
+### Rust
+
+* [The Rust Programming Language - Book](https://doc.rust-lang.org/book/): This is a book that explains Rust concepts, including Ownership and Borrowing, the key concepts of the language, and is hosted by the official rust-lang.org website.
+
 ## Machine Learning
 
 * [Stanford CS231n — Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA): This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.

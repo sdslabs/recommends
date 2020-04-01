@@ -64,7 +64,13 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 
 ### Python
 
-* [Sentdex](https://www.youtube.com/user/sentdex): Sendtdex makes beginner friendly videos about everything python. From basic python, to Flask and Django, to Deep learning and sentiment analysis. Sentdex has got it all covered and is a great resource for anyone looking to familiarize themselves with python
+* [Sentdex](https://www.youtube.com/user/sentdex): Sentdex makes beginner friendly videos about everything python. From basic python, to Flask and Django, to Deep learning and sentiment analysis. Sentdex has got it all covered and is a great resource for anyone looking to familiarize themselves with python
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): Well, let's say you are py newbie. But you have a fire within to 'Build Things'. And you are to lazy to go down the long way. Then here's the place for you. An application based approach to learn one of the most popular programming languages.
+
+### Go
+
+* [Go by Example](https://gobyexample.com/): Wondering where to start learning Go? The tutorials bore you as hell? Why not learn by implementing mini examples that will keep engrossed till the end. This website covers all the important topics from the classic Hello World to Goroutines to HTTP servers using annotated example programs.  
+* [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/): This Youtube channel features some popular as well as some unconventional takes on Go programming. From trying out Tensorflow Go to gRPC, it unfolds the potential of Go in an interesting way.
 
 ## Machine Learning
 

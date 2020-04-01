@@ -64,7 +64,7 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 
 ### Python
 
-* [Sentdex](https://www.youtube.com/user/sentdex): Sendtdex makes beginner friendly videos about everything python. From basic python, to Fask and Django, to Deep learning and sentiment analysis. Sentdex has got it all covered and is a great resource for anyone looking to familiarize themselves with python
+* [Sentdex](https://www.youtube.com/user/sentdex): Sendtdex makes beginner friendly videos about everything python. From basic python, to Flask and Django, to Deep learning and sentiment analysis. Sentdex has got it all covered and is a great resource for anyone looking to familiarize themselves with python
 
 ## Machine Learning
 

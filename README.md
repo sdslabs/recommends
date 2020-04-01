@@ -64,7 +64,9 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 
 ### Python
 
-* [Sentdex](https://www.youtube.com/user/sentdex): Sentdex makes beginner friendly videos about everything python. From basic python, to Fask and Django, to Deep learning and sentiment analysis. Sentdex has got it all covered and is a great resource for anyone looking to familiarize themselves with python
+* [Sentdex](https://www.youtube.com/user/sentdex): Sentdex makes beginner friendly videos about everything python. From basic python, to Flask and Django, to Deep learning and sentiment analysis. Sentdex has got it all covered and is a great resource for anyone looking to familiarize themselves with python
+
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): Well, let's say you are py newbie. But you have a fire within to 'Build Things'. And you are to lazy to go down the long way. Then here's the place for you. An application based approach to learn one of the most popular programming languages.
 
 ### Go
 

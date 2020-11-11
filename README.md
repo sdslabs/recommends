@@ -55,6 +55,7 @@ We have divided these in several categories that make them easier to digest.
 * [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg): This is a complete basic to intermediate level course on Cryptography by Professor Christof Paar. You would love how this course has completely nil (or maybe very minimum) prerequisites.
 The accompanying book for this course is available [here](http://swarm.cs.pub.ro/~mbarbulescu/cripto/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf)
 * [Matasano Cryptopals](https://cryptopals.com/): This is a set of challenges on Cryptography, covering all the classical topics in Cryptology, this acts as a cherry on top of the above course.
+* [Cryptohack](https://cryptohack.org/):CryptoHack is a fun platform for learning cryptography. The emphasis is on breaking bad implementations of "modern" crypto, such as AES, RSA, and Elliptic-curve. 
 
 ## Language Specific
 

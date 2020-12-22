@@ -19,7 +19,7 @@ We have divided these in several categories that make them easier to digest.
 * [Android Development](#Android-Development)
 * [How to add stuff?](#How-to-add-stuff)
 
-## Beginner's Resources
+## Starter Packs for Beginners
 ### Web Development
 * [w3schools](https://www.w3schools.com/): This is generally the first site that anyone has opened to get into development. It explains various concepts related to web development effortlessly with the help of examples.
 * [CSS-Tricks](https://css-tricks.com/): It is considered one of the best sites to learn about CSS concepts. Each example has code snippets with easy-to-follow explanations of the code and theory behind the specific concept. It also lists possible issues you may run into with the code that is often addressed, so you know how to tackle bugs that may pop up.
@@ -34,6 +34,26 @@ We have divided these in several categories that make them easier to digest.
 #### <b>For Theory</b>
 * [CP-Algorithms](https://cp-algorithms.com/): It described many algorithms and data structures, especially popular in the field of competitive programming. 
 * [GeeksForGeeks](https://www.geeksforgeeks.org/): The content on GeeksforGeeks has been divided into various categories to make it easily accessible for the users. Whether you want to learn algorithms, data structures, or it is the programming language on its own, which interests you, GeeksforGeeks has covered everything!
+
+### Mobile App Development
+#### <b>Android</b>
+* [TheNewBoston Android Tutorial](https://www.youtube.com/watch?v=QAbQgLGKd3Y&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl): This is a classic playlist of tutorials which teaches a lot starting from the Android fundamentals to creating super cool games. The author has explained the essential concepts lucidly.
+* [Android Tutorial for Beginnners](https://www.youtube.com/playlist?list=PLS1QulWo1RIbb1cYyzZpLFCKvdYV_yJ-E): Another brilliant tutorial but recently published making it in line with the newest Android concepts and incorporating them in the tutorial.
+* [CSN193A - Android App Developement](https://github.com/luong-komorebi/CS193A): A popular structured course material available freely for the ones who prefer text over videos. Really informative and hand crafted by a professon veteran in this field.
+* [Kotlin Development for beginners](https://www.youtube.com/watch?v=e7WIPwRd2s8&list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV): Another popular language for Android developent. Lately, this is gaining a lot of traction and a well quite many apps are being developed using Kotlin. This video series streamlines the learning and makes it fun.
+#### <b>iOS</b>
+* [Learn iOS Development](https://www.youtube.com/watch?v=xVPGQEHok74&list=PLpZBns8dFbgx0gr68lf-un9EjdmywTu4_): A good lecture series to begin with iOS app developement using Swift.
+
+### Information Security
+#### <b>Practice</b>
+* [Overthewire Bandit](https://overthewire.org/wargames/bandit/): Probably the best set of challenges to get you started with security, covering a large number of areas ranging from using the linux shell to the fullest to network security. And the best part, it is itself aimed at absolute beginners.
+* [Backdoor](https://backdoor.sdslabs.co/): Armed with the basics, you can set your feet on some beginner level challenges here. The first challenges are designed to be informative and simple and gradually escalates the difficulty.
+* [Cryptopals](http://cryptopals.com/): A set of challenges in increasing order of difficulty for the crypto junkies.
+* [PicoCTF](https://picoctf.org/): Another beginner level CTF to brush up your skills.
+#### <b>Theoretical Concepts</b>
+* [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): Contains a lot of mini tutorials on topics such binary exploitation and security in general. Remember to look for the relevant playlists in this channel.
+* [x86 Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf): A crash course on the x86 architecture.
+* [Basics of Networking](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm): An article explainng the general concepts involved in computer networks.
 
 ## Competitive Programming
 * [CS 97SI Introduction to Competitive Programming](http://web.stanford.edu/class/cs97si/): Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.

@@ -6,6 +6,7 @@ We have divided these in several categories that make them easier to digest.
 
 # Contents
 
+* [Starter Packs for Beginners](#Starter-Packs-for-Beginners)
 * [Competitive Programming](#Competitive-Programming)
 * [Database Systems](#Database-Systems)
 * [Distributed Systems](#Distributed-Systems)

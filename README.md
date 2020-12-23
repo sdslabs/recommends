@@ -56,6 +56,15 @@ We have divided these in several categories that make them easier to digest.
 * [x86 Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf): A crash course on the x86 architecture.
 * [Basics of Networking](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm): An article explainng the general concepts involved in computer networks.
 
+### Data Science and Machine Learning
+#### <b>Practice</b>
+* [Kaggle](https://kaggle.com): Kaggle is a no-setup, customisable, Jupyter Notebooks environment by Google. With over 19,000 public datasets and 200,000 public notebooks, this platform provides one of the best places to practice data science computational problems. This cloud computational environment supports Python 3 and R and enables reproducible and collaborative analysis where one can explore and run machine learning codes seamlessly.
+#### <b>Theoretical Concepts</b>
+* [ISLR](https://statlearning.com/ISLR%20Seventh%20Printing.pdf): ISLR is a theory/math-intensive book & the codes are written in R and thus you may refer to the book’s python conversion [here](https://github.com/JWarmenhoven/ISLR-python).
+* [Probability and Statistics](https://towardsdatascience.com/probability-and-statistics-for-data-science-part-1-3eed6051c40d): Probability and statistics will help you understand the fundamentals behind Machine Learning Algorithms, hence, having good understanding is important. You can follow this blog series for getting started with probability and statistics.
+* [CS229](http://cs229.stanford.edu/) / [CS109](http://web.stanford.edu/class/cs109/): You can follow any of the two courses — Andrew NG’s CS229 Machine Learning or Harvard’s CS109 Data Science for basic concepts of ML and DL.
+* [PyTorch](https://github.com/yunjey/pytorch-tutorial) / [Tensorflow](https://github.com/Hvass-Labs/TensorFlow-Tutorials): You can go either for PyTorch Tutorials or Tensorflow Tutorials. Start and excel in one of these as it is the implementation that matters ultimately.
+
 ## Competitive Programming
 * [CS 97SI Introduction to Competitive Programming](http://web.stanford.edu/class/cs97si/): Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
 * [E-Maxx Algorithms](http://cp-algorithms.com/): A tutorial website which provides descriptions of many algorithms and data structures especially popular in field of competitive programming. 

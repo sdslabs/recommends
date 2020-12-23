@@ -24,6 +24,8 @@ We have divided these in several categories that make them easier to digest.
 ### Web Development
 * [w3schools](https://www.w3schools.com/): This is generally the first site that anyone has opened to get into development. It explains various concepts related to web development effortlessly with the help of examples.
 * [CSS-Tricks](https://css-tricks.com/): It is considered one of the best sites to learn about CSS concepts. Each example has code snippets with easy-to-follow explanations of the code and theory behind the specific concept. It also lists possible issues you may run into with the code that is often addressed, so you know how to tackle bugs that may pop up.
+* [JavaScript30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH): If you want to practice your js skills but does not have ideas, this playlist is for you. It contains 30 videos, all of which try to teach a new concept with its real-time implementation.
+* [JS Hero](https://www.jshero.net/en/home.html): This is a JavaScript tutorial with interactive exercises. On each page, you will find a lesson and an activity. You can answer the task directly on the page and see them running.
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Academind has lots of different types of development videos which would scratch quite a few itches when it comes to learning something new. Apart from some web development concepts, it contains tutorials on various other CS fields like data science, android development.
 * [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Freecodecamp is an open-source community as it provides many best tutorials from different instructors for Python, CSS, React, Data Science, JavaScript, etc.
 

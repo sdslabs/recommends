@@ -120,10 +120,12 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 
 * [Go by Example](https://gobyexample.com/): Wondering where to start learning Go? The tutorials bore you as hell? Why not learn by implementing mini examples that will keep engrossed till the end. This website covers all the important topics from the classic Hello World to Goroutines to HTTP servers using annotated example programs.  
 * [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/): This Youtube channel features some popular as well as some unconventional takes on Go programming. From trying out Tensorflow Go to gRPC, it unfolds the potential of Go in an interesting way.
+* [Go Tour](https://tour.golang.org/): It's a concise introduction to the Go programming language. Teaches all the basic concepts of the language by writing short examples of code. If you're familiar with some other programming language, it's a nice way to dive into Go.
 
 ### Rust
 
 * [The Rust Programming Language - Book](https://doc.rust-lang.org/book/): This is a book that explains Rust concepts, including Ownership and Borrowing, the key concepts of the language, and is hosted by the official rust-lang.org website.
+* [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/): Teaches you Rust by creating, as evident by the title, many linked lists. From explaining the basic syntax to how memory is managed by Rust, this unofficial book covers everything. Beware, this does require some prior understanding of programming and data-structures like linked lists and stacks.
 
 ## Machine Learning
 

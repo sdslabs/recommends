@@ -28,6 +28,7 @@ We have divided these in several categories that make them easier to digest.
 * [JS Hero](https://www.jshero.net/en/home.html): This is a JavaScript tutorial with interactive exercises. On each page, you will find a lesson and an activity. You can answer the task directly on the page and see them running.
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Academind has lots of different types of development videos which would scratch quite a few itches when it comes to learning something new. Apart from some web development concepts, it contains tutorials on various other CS fields like data science, android development.
 * [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Freecodecamp is an open-source community as it provides many best tutorials from different instructors for Python, CSS, React, Data Science, JavaScript, etc.
+* [Scaler Topics](https://www.scaler.com/topics/): Scaler Topics is a curated interactive space for aspiring programmers to learn and master their coding skills in Java, Python, CSS, JavaScript etc.
 
 ### 2. Competitive Programming
 #### <b>For Practice</b>

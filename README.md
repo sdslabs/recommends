@@ -28,6 +28,7 @@ We have divided these in several categories that make them easier to digest.
 * [JS Hero](https://www.jshero.net/en/home.html): This is a JavaScript tutorial with interactive exercises. On each page, you will find a lesson and an activity. You can answer the task directly on the page and see them running.
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Academind has lots of different types of development videos which would scratch quite a few itches when it comes to learning something new. Apart from some web development concepts, it contains tutorials on various other CS fields like data science, android development.
 * [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Freecodecamp is an open-source community as it provides many best tutorials from different instructors for Python, CSS, React, Data Science, JavaScript, etc.
+* [Web Development](https://www.interviewbit.com/web-developer-interview-questions/): This presents a series of questions curated by hand-picking the ones most likely to be asked during an interview.
 
 ### 2. Competitive Programming
 #### <b>For Practice</b>
@@ -66,6 +67,7 @@ We have divided these in several categories that make them easier to digest.
 * [Probability and Statistics](https://towardsdatascience.com/probability-and-statistics-for-data-science-part-1-3eed6051c40d): Probability and statistics will help you understand the fundamentals behind Machine Learning Algorithms, hence, having good understanding is important. You can follow this blog series for getting started with probability and statistics.
 * [CS229](http://cs229.stanford.edu/) / [CS109](http://web.stanford.edu/class/cs109/): You can follow any of the two courses — Andrew NG’s CS229 Machine Learning or Harvard’s CS109 Data Science for basic concepts of ML and DL.
 * [PyTorch](https://github.com/yunjey/pytorch-tutorial) / [Tensorflow](https://github.com/Hvass-Labs/TensorFlow-Tutorials): You can go either for PyTorch Tutorials or Tensorflow Tutorials. Start and excel in one of these as it is the implementation that matters ultimately.
+* [Data Science](https://www.interviewbit.com/data-science-interview-questions/): A site that gamifies the experience of practising for interviews with comprehensive resources and lots of sample problems to practice.
 
 ## Competitive Programming
 * [CS 97SI Introduction to Competitive Programming](http://web.stanford.edu/class/cs97si/): Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
@@ -134,6 +136,7 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 * [Deep learning book](https://www.deeplearningbook.org/): This textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.
 * [r/MachineLearning](https://www.reddit.com/r/MachineLearning/): r/MachineLearning on Reddit is a community of 900K+ machine learning enthusiasts that shares the latest research, discussions, projects etc, pertaining to machine learning.
 * [WildML](http://www.wildml.com/): WildML is an excellent blog maintained by Denny Britz focused on Natural Language Understanding and Reinforcement Learning.
+* [Machine Learning](https://www.interviewbit.com/machine-learning-interview-questions/):This article focusses on the real-world skills needed to excel in this field. 
 
 ## Networking
 

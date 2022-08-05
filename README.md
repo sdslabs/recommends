@@ -110,6 +110,7 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 ### C++
 
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject): TheCherno has been a quite valuable resource while developing our game engines, viz. [Rubeus](https://github.com/sdslabs/rootex) and [Rootex](https://github.com/sdslabs/rootex) (ongoing). This YouTube channel dives into advanced topics of C++ (although his earlier videos taught Java) occasionally while keeping a solid foundation based on just one thing: Building good C++ software. You will not find any random videos on things you will probably never use.
+* [Top C++ Projects](https://www.interviewbit.com/blog/cpp-projects/): The best way to kick start your career with any language is to create a few practice projects in them. The best way to learn more about the features of the C++ function is to work on a few basic projects. One thing that most learners have a problem with is choosing their first C++ project out of all project ideas.
 
 ### Python
 

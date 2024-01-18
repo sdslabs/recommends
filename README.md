@@ -32,7 +32,7 @@ We have divided these in several categories that make them easier to digest.
 ### 2. Competitive Programming
 #### <b>For Practice</b>
 * [Codeforces](https://codeforces.com/): Codeforces is an online competition platform for coding, improving your coding skills. At Codeforces, you can both practice and compete. Apart from this, there are also editorials and discussions where you can learn about new ways used by other peoples to solve a problem. 
-* [CodeChef](codechef.com): It is similar to Codeforces. The long challenges are beneficial for starters as it provides a ten-day window to solve 8-10 problems, so you can easily learn algorithms and implement them. 
+* [CodeChef](codechef.com): It is similar to Codeforces. The long challenges are beneficial for starters as it provides a ten-day window to solve 8-10 problems, so you can easily learn and assimilate algorithms and implement them. 
 * Some other platforms: [AtCoder](https://atcoder.jp/), [A2oj](https://a2oj.com/)
 #### <b>For Theory</b>
 * [CP-Algorithms](https://cp-algorithms.com/): It described many algorithms and data structures, especially popular in the field of competitive programming. 

@@ -89,6 +89,9 @@ We have divided these in several categories that make them easier to digest.
 * [r/gamedev](https://www.reddit.com/r/gamedev/): r/GameDev on Reddit is a community of 400K+ game developers that shares the latest techniques, tips and news, all related to the AAA and indie game development industry. You will find interesting project displays, blogs and technical help in this subreddit, all at one place.
 * [Game Developers Conference](https://www.gdconf.com/): The Game Developers Conference (GDC) brings the game development community together to exchange ideas, solve problems, and shape the future of the industry across five days of education, inspiration, and networking. Attendees include programmers, artists, producers, game designers, audio professionals, and business leaders. Check out the talks that happen at GDC on [their YouTube channel](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ).
 * [Red Blob Games](https://www.redblobgames.com/): A site with great visual and interactive explanations of algorithms and data structures, mostly related to game development. A great place to learn and understand Procedural Generation/Textures. 
+* [Book of Shaders](https://thebookofshaders.com/): This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+* [Shader Toy](https://www.shadertoy.com/): Shadertoy is an online community and tool for creating and sharing shaders through WebGL, used for both learning and teaching 3D computer graphics in a web browser.
+* [Godot Engine](https://docs.godotengine.org/en/stable/): Godot Docs is the official documentation for the free and open-source Godot Engine, a 2D and 3D game development platform
 
 ### 3D graphics
 

@@ -28,6 +28,7 @@ We have divided these in several categories that make them easier to digest.
 * [JS Hero](https://www.jshero.net/en/home.html): This is a JavaScript tutorial with interactive exercises. On each page, you will find a lesson and an activity. You can answer the task directly on the page and see them running.
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Academind has lots of different types of development videos which would scratch quite a few itches when it comes to learning something new. Apart from some web development concepts, it contains tutorials on various other CS fields like data science, android development.
 * [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Freecodecamp is an open-source community as it provides many best tutorials from different instructors for Python, CSS, React, Data Science, JavaScript, etc.
+* [Mozzila Developer Network](https://developer.mozilla.org/en-US/): MDN is the one stop shop for learning all kinds of open web development technologies. You will find the best resources on HTML, CSS, JS, Web APIs, etc.
 
 ### 2. Competitive Programming
 #### <b>For Practice</b>
@@ -148,14 +149,18 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 * [WildML](http://www.wildml.com/): WildML is an excellent blog maintained by Denny Britz focused on Natural Language Understanding and Reinforcement Learning.
 
 ## Networking
-
+* [GeeksForGeeks](https://www.geeksforgeeks.org/basics-computer-networking/): GeeksForGeeks has well categorised and well explained quick reads to get started on the basic networking concepts.
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/): Beej's Guide to Network Programming is little how-to guide on network programming using Internet sockets, or "sockets programming".
+* [Computer Networking: A Top-Down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf): Kurose's "Computer Networking: A Top-Down Approach" emphasizes theory behind networking, underlying protocols and network architecture.
 * [Debian's linux networking guide](http://www.aboutdebian.com/network.htm): Debian's linux networking guide is a helpful resource to understand basics of linux networking along with introduction to concepts like ARP, Encapsulation, Subnetting etc.
 * [netdevconf](https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg): Netdevconf is a community-driven conference geared towards Linux netheads with focus on Linux kernel networking and user space network apps.
 
 ## Web Development
-
-* [Mozzila Developer Network](https://developer.mozilla.org/en-US/): MDN is the one stop shop for learning all kinds of open web development technologies. You will find the best resources on HTML, CSS, JS, Web APIs, etc.
+### Backend
+* [Express JS Playlist](https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC): A very beginner-friendly playlist for introduction to Express JS and some important backend concepts.  
+* [Node JS and Advanced backend concepts Playlist](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo): A very well explained and detailed playlist on Node JS runtime starting from the basic concept of Node and Express upto advanced topics like Socket.io, Nginx and GraphQL. Almost a complete guide for a JS backend developer.
+* [Django Playlist](https://www.youtube.com/watch?v=fdXLIX3BfAc&list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk&index=3): A good beginner playlist for Python's Django Backend Framework. Django can feel challenging initially due to its "batteries-included" approach, which means it handles a lot of complex tasks out-of-the-box, like authentication and database management. However, this also makes it powerful and efficient, as once you grasp the basics, it streamlines many aspects of web development.
+* [MongoDB Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
 
 ## System Administration
 

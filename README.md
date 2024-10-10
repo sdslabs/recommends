@@ -160,7 +160,7 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 * [Express JS Playlist](https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC): A very beginner-friendly playlist for introduction to Express JS and some important backend concepts.  
 * [Node JS and Advanced backend concepts Playlist](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo): A very well explained and detailed playlist on Node JS runtime starting from the basic concept of Node and Express upto advanced topics like Socket.io, Nginx and GraphQL. Almost a complete guide for a JS backend developer.
 * [Django Playlist](https://www.youtube.com/watch?v=fdXLIX3BfAc&list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk&index=3): A good beginner playlist for Python's Django Backend Framework. Django can feel challenging initially due to its "batteries-included" approach, which means it handles a lot of complex tasks out-of-the-box, like authentication and database management. However, this also makes it powerful and efficient, as once you grasp the basics, it streamlines many aspects of web development.
-* [MongoDB Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+* [MongoDB Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA): A well-explained, beginner-friendly playlist covering MongoDB and how to connect it with NodeJS. MongoDB is a NoSQL database, ideal for scenarios where SQL databases are less suitable or when flexibility in database is needed.
 
 ## System Administration
 

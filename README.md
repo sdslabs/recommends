@@ -46,6 +46,11 @@ We have divided these in several categories that make them easier to digest.
 * [Kotlin Development for beginners](https://www.youtube.com/watch?v=e7WIPwRd2s8&list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV): Another popular language for Android developent. Lately, this is gaining a lot of traction and a well quite many apps are being developed using Kotlin. This video series streamlines the learning and makes it fun.
 #### <b>iOS</b>
 * [Learn iOS Development](https://www.youtube.com/watch?v=xVPGQEHok74&list=PLpZBns8dFbgx0gr68lf-un9EjdmywTu4_): A good lecture series to begin with iOS app developement using Swift.
+* [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui): A 100 day comprehensive series that covers the swift programming language as well as SwiftUI, Apple's flagship iOS development framework through 16-17 hands-on projects.
+#### <b>Flutter</b>
+* [Flutter Zero to Hero](https://medium.com/@NALSengineering/flutter-from-zero-to-hero-part-1-build-your-first-project-88936b59dc7b?source=search_post---------7----------------------------): A series of medium articles, around 5-6 min reads each, that goes over critically analyzing some core concepts in flutter, such as what Stateless and Stateful Widgets are, what BuildContext is, how flutter works, what widget trees are, etc.
+* [Mitch Koko's Flutter Masterclss](https://www.youtube.com/watch?v=TclK5gNM_PM&pp=ygUSbWl0Y2gga29rbyBmbHV0dGVy): This 10 hour long masterclass goes over everything you need to know to be able to make professional flutter apps on your own, goes over 10 big projects that will teach you basically everything you need to know to get started.
+* [Rivaan Ranawat's Flutter Masterclass](https://www.youtube.com/watch?v=CzRQ9mnmh44): This humongous 20 hour long lecture, goes over the very nitty gritties of dart, the programming language that Flutter is built on, then through 4-5 real world projects, goes to teach you everything you need to know to get into Flutter, and make your own professional grade mobile apps.
 
 ### 4. Information Security
 #### <b>Practice</b>

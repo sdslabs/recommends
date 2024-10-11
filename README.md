@@ -70,6 +70,17 @@ We have divided these in several categories that make them easier to digest.
 * [CS229](http://cs229.stanford.edu/) / [CS109](http://web.stanford.edu/class/cs109/): You can follow any of the two courses — Andrew NG’s CS229 Machine Learning or Harvard’s CS109 Data Science for basic concepts of ML and DL.
 * [PyTorch](https://github.com/yunjey/pytorch-tutorial) / [Tensorflow](https://github.com/Hvass-Labs/TensorFlow-Tutorials): You can go either for PyTorch Tutorials or Tensorflow Tutorials. Start and excel in one of these as it is the implementation that matters ultimately.
 
+### 6. Blockchain
+#### <b>Theoretical Concepts</b>
+* [FreeCodeCamp - Patrick Collins (32-Hour Course)](https://www.youtube.com/watch?v=gyMwXuJrbJQ): A comprehensive guide to DeFi and blockchain technology, starting with the fundamentals and gradually progressing to advanced concepts. The first two hours provide an essential introduction to blockchain basics. The remainder of the video delves into the implementation of Smart Contracts using Solidity, offering practical insights and hands-on experience. 
+* [Devcon Archive - Ethereum in 30 minutes](https://archive.devcon.org/archive/watch/6/opening-ceremonies-vitalik/?playlist=Staff%20Picks&tab=YouTube): This is a highly insightful short video explaining the workings of the renowned blockchain platform, Ethereum. For more resources like this, the entire [Devcon Archive](https://archive.devcon.org/archive) hosts a lot of videos and articles covering various blockchain topics in depth.
+* [Inevitable Ethereum](https://inevitableeth.com/): A very beginner friendly guide to basics of blockchain, the consensus mechanisms (Proof of Stake and Proof of Work) and the EVM. Easy to read and follow. 
+* [Solidity Docs](https://docs.soliditylang.org/en/v0.8.28/): Solidity is the most widely preferred language for writing smart contracts and is considered one of the best languages for beginners to get started with in the blockchain space. 
+#### <b>Playground</b>
+* [Andersbrownworth Blockchain Playground](https://andersbrownworth.com/blockchain/): Play around and understand how blocks are created and shared after being hashed. Try to figure out how blockchains are immutable and require consensus to change itself.
+* [BlockchainDemo](https://blockchaindemo.io/): Play around to understand how blockchains work with multiple peers and blocks.
+
+
 ## Competitive Programming
 * [CS 97SI Introduction to Competitive Programming](http://web.stanford.edu/class/cs97si/): Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
 * [E-Maxx Algorithms](http://cp-algorithms.com/): A tutorial website which provides descriptions of many algorithms and data structures especially popular in field of competitive programming. 

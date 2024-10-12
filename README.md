@@ -28,6 +28,7 @@ We have divided these in several categories that make them easier to digest.
 * [JS Hero](https://www.jshero.net/en/home.html): This is a JavaScript tutorial with interactive exercises. On each page, you will find a lesson and an activity. You can answer the task directly on the page and see them running.
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Academind has lots of different types of development videos which would scratch quite a few itches when it comes to learning something new. Apart from some web development concepts, it contains tutorials on various other CS fields like data science, android development.
 * [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Freecodecamp is an open-source community as it provides many best tutorials from different instructors for Python, CSS, React, Data Science, JavaScript, etc.
+* [Mozzila Developer Network](https://developer.mozilla.org/en-US/): MDN is the one stop shop for learning all kinds of open web development technologies. You will find the best resources on HTML, CSS, JS, Web APIs, etc.
 
 ### 2. Competitive Programming
 #### <b>For Practice</b>
@@ -63,9 +64,22 @@ We have divided these in several categories that make them easier to digest.
 * [Kaggle](https://kaggle.com): Kaggle is a no-setup, customisable, Jupyter Notebooks environment by Google. With over 19,000 public datasets and 200,000 public notebooks, this platform provides one of the best places to practice data science computational problems. This cloud computational environment supports Python 3 and R and enables reproducible and collaborative analysis where one can explore and run machine learning codes seamlessly.
 #### <b>Theoretical Concepts</b>
 * [ISLR](https://statlearning.com/ISLR%20Seventh%20Printing.pdf): ISLR is a theory/math-intensive book & the codes are written in R and thus you may refer to the book’s python conversion [here](https://github.com/JWarmenhoven/ISLR-python).
-* [Probability and Statistics](https://towardsdatascience.com/probability-and-statistics-for-data-science-part-1-3eed6051c40d): Probability and statistics will help you understand the fundamentals behind Machine Learning Algorithms, hence, having good understanding is important. You can follow this blog series for getting started with probability and statistics.
+* [CS110 Probability and Statistics](https://projects.iq.harvard.edu/stat110/home): Probability and statistics will help you understand the fundamentals behind Machine Learning Algorithms, hence, having good understanding is important. A good exhaustive course for probability and statistics.
+* [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): 3b1b's Linear Algebra playlist offers an intutive, visually - driven approach to understand the core concepts of Linear Algebra.
+* [Linear Algebra Axler](https://link.springer.com/book/10.1007/978-3-031-41026-0): A comprehensive resource for learning linear algebra.
 * [CS229](http://cs229.stanford.edu/) / [CS109](http://web.stanford.edu/class/cs109/): You can follow any of the two courses — Andrew NG’s CS229 Machine Learning or Harvard’s CS109 Data Science for basic concepts of ML and DL.
 * [PyTorch](https://github.com/yunjey/pytorch-tutorial) / [Tensorflow](https://github.com/Hvass-Labs/TensorFlow-Tutorials): You can go either for PyTorch Tutorials or Tensorflow Tutorials. Start and excel in one of these as it is the implementation that matters ultimately.
+
+### 6. Blockchain
+#### <b>Theoretical Concepts</b>
+* [FreeCodeCamp - Patrick Collins (32-Hour Course)](https://www.youtube.com/watch?v=gyMwXuJrbJQ): A comprehensive guide to DeFi and blockchain technology, starting with the fundamentals and gradually progressing to advanced concepts. The first two hours provide an essential introduction to blockchain basics. The remainder of the video delves into the implementation of Smart Contracts using Solidity, offering practical insights and hands-on experience. 
+* [Devcon Archive - Ethereum in 30 minutes](https://archive.devcon.org/archive/watch/6/opening-ceremonies-vitalik/?playlist=Staff%20Picks&tab=YouTube): This is a highly insightful short video explaining the workings of the renowned blockchain platform, Ethereum. For more resources like this, the entire [Devcon Archive](https://archive.devcon.org/archive) hosts a lot of videos and articles covering various blockchain topics in depth.
+* [Inevitable Ethereum](https://inevitableeth.com/): A very beginner friendly guide to basics of blockchain, the consensus mechanisms (Proof of Stake and Proof of Work) and the EVM. Easy to read and follow. 
+* [Solidity Docs](https://docs.soliditylang.org/en/v0.8.28/): Solidity is the most widely preferred language for writing smart contracts and is considered one of the best languages for beginners to get started with in the blockchain space. 
+#### <b>Playground</b>
+* [Andersbrownworth Blockchain Playground](https://andersbrownworth.com/blockchain/): Play around and understand how blocks are created and shared after being hashed. Try to figure out how blockchains are immutable and require consensus to change itself.
+* [BlockchainDemo](https://blockchaindemo.io/): Play around to understand how blockchains work with multiple peers and blocks.
+
 
 ## Competitive Programming
 * [CS 97SI Introduction to Competitive Programming](http://web.stanford.edu/class/cs97si/): Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
@@ -90,10 +104,16 @@ We have divided these in several categories that make them easier to digest.
 * [Game Developers Conference](https://www.gdconf.com/): The Game Developers Conference (GDC) brings the game development community together to exchange ideas, solve problems, and shape the future of the industry across five days of education, inspiration, and networking. Attendees include programmers, artists, producers, game designers, audio professionals, and business leaders. Check out the talks that happen at GDC on [their YouTube channel](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ).
 * [Red Blob Games](https://www.redblobgames.com/): A site with great visual and interactive explanations of algorithms and data structures, mostly related to game development. A great place to learn and understand Procedural Generation/Textures. 
 
+### Graphics Programming
+* [LearnOpenGL](https://learnopengl.com/): The best one-shot resource for learning OpenGL.
+* [Scratch A Pixel](https://www.scratchapixel.com/index.html): Great resource for leaning graphics programming.
+* [p5js](https://p5js.org/): The best beginniner friendly way to get into graphics programming.
+
 ### 3D graphics
 
 * [Paul Bourke](http://paulbourke.net/): A site explaining stuff used in advanced 3D graphics, mostly procedural stuff. A specific page to get you started would be [this Noise article](http://paulbourke.net/fractals/noise/) where you'll find some creative uses of noise functions in terrain generation.
 * [Procedural World](http://procworld.blogspot.com/): This site is completely dedicated to Procedural Generation. A highly suggested read would be [this page](http://procworld.blogspot.com/2014/01/leveling-lakes.html) which suggests an approach to flatten bumpiness in lake-beds generated due to noise.
+* [Wave Function Collapse](https://krishnapandey.notion.site/WFC-Resources-by-Krishna-1134e297cded80aab40cc4f80ad9af11): This site contains a few resources to get started with the Wave Function Collapse Procedural Generation Algorithm.
 
 ## Information Security
 * [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a member of team Alles and makes videos about CTFs, bug hunting and cool vulnerabitlies, focusing primarily on binary exploitation and reverse engineering with occasional content about web security. His binary exploitation series, though a little tough to follow at first, is a great resource for beginners looking to get started in the field of infosec
@@ -128,23 +148,30 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 * [The Rust Programming Language - Book](https://doc.rust-lang.org/book/): This is a book that explains Rust concepts, including Ownership and Borrowing, the key concepts of the language, and is hosted by the official rust-lang.org website.
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/): Teaches you Rust by creating, as evident by the title, many linked lists. From explaining the basic syntax to how memory is managed by Rust, this unofficial book covers everything. Beware, this does require some prior understanding of programming and data-structures like linked lists and stacks.
 
-## Machine Learning
+## Machine Learning and Deep Learning
 
-* [Stanford CS231n — Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA): This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.
-* [Stanford CS224n — Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6): This lecture series provides a thorough introduction to the cutting-edge research in deep learning applied to NLP, an approach that has recently obtained very high performance across many different NLP tasks including question answering and machine translation.
-* [Deep learning book](https://www.deeplearningbook.org/): This textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.
+* [CS229 Machine Learning](http://cs229.stanford.edu/): Andrew NG’s CS229 Machine Learning, covers core machine learning topics very thoroughly, backed by mathematical reasoning and analogy.
+* [Stanford CS231n — Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv): This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.
+* [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r): One of the best course for learning application of deep learning architectures in computer vision. Covers from basics of CNNs, object detection, segmentation, generative models, etc.
+* [Stanford CS224n — Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4): This lecture series provides a thorough introduction to the cutting-edge research in deep learning applied to NLP, an approach that has recently obtained very high performance across many different NLP tasks including question answering and machine translation.
+* [Deep learning book](https://www.deeplearningbook.org/): _Deep Learning_ by Ian Goodfellow is a comprehensive guide that covers deep learning concepts, from neural networks to advanced models. One of most authoritative resources in the field of deep learning.
+* [Lil'Log](https://lilianweng.github.io/): A blog on various deep learning topics by Lilian Weng, the lead of AI safety and alignment at OpenAI. One of most in depth blogs by one of the best in the field. You can check out the blogs on [Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) and [Attention](https://lilianweng.github.io/posts/2018-06-24-attention/).
 * [r/MachineLearning](https://www.reddit.com/r/MachineLearning/): r/MachineLearning on Reddit is a community of 900K+ machine learning enthusiasts that shares the latest research, discussions, projects etc, pertaining to machine learning.
 * [WildML](http://www.wildml.com/): WildML is an excellent blog maintained by Denny Britz focused on Natural Language Understanding and Reinforcement Learning.
 
 ## Networking
-
+* [GeeksForGeeks](https://www.geeksforgeeks.org/basics-computer-networking/): GeeksForGeeks has well categorised and well explained quick reads to get started on the basic networking concepts.
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/): Beej's Guide to Network Programming is little how-to guide on network programming using Internet sockets, or "sockets programming".
+* [Computer Networking: A Top-Down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf): Kurose's "Computer Networking: A Top-Down Approach" emphasizes theory behind networking, underlying protocols and network architecture.
 * [Debian's linux networking guide](http://www.aboutdebian.com/network.htm): Debian's linux networking guide is a helpful resource to understand basics of linux networking along with introduction to concepts like ARP, Encapsulation, Subnetting etc.
 * [netdevconf](https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg): Netdevconf is a community-driven conference geared towards Linux netheads with focus on Linux kernel networking and user space network apps.
 
 ## Web Development
-
-* [Mozzila Developer Network](https://developer.mozilla.org/en-US/): MDN is the one stop shop for learning all kinds of open web development technologies. You will find the best resources on HTML, CSS, JS, Web APIs, etc.
+### Backend
+* [Express JS Playlist](https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC): A very beginner-friendly playlist for introduction to Express JS and some important backend concepts.  
+* [Node JS and Advanced backend concepts Playlist](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo): A very well explained and detailed playlist on Node JS runtime starting from the basic concept of Node and Express upto advanced topics like Socket.io, Nginx and GraphQL. Almost a complete guide for a JS backend developer.
+* [Django Playlist](https://www.youtube.com/watch?v=fdXLIX3BfAc&list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk&index=3): A good beginner playlist for Python's Django Backend Framework. Django can feel challenging initially due to its "batteries-included" approach, which means it handles a lot of complex tasks out-of-the-box, like authentication and database management. However, this also makes it powerful and efficient, as once you grasp the basics, it streamlines many aspects of web development.
+* [MongoDB Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA): A well-explained, beginner-friendly playlist covering MongoDB and how to connect it with NodeJS. MongoDB is a NoSQL database, ideal for scenarios where SQL databases are less suitable or when flexibility in database is needed.
 
 ## System Administration
 

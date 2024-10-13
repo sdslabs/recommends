@@ -183,6 +183,12 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 * [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2): This is a course made by Google which covers the basics of android development such as activities, intents, lifecycles, minimal UI, broadcast receivers, services, async-tasks and storage.
 * [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview): This course also made by Google focuses on advanced android development topics like fragments, sensors, performance optimization, geo-location, animations, audio/video streaming etc.
 
+## Interview Preparation
+
+* [Web Development](https://www.interviewbit.com/web-developer-interview-questions/): This presents a series of questions curated by hand-picking the ones most likely to be asked during an interview.
+* [Data Science](https://www.interviewbit.com/data-science-interview-questions/): Learn from this comprehensive set of data science interview questions and ace your interview.
+* [Machine Learning](https://www.interviewbit.com/machine-learning-interview-questions/):This article focusses on the real-world skills needed to excel in this field. 
+
 ## How to add stuff?
 
 ### How to add a new topic?

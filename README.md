@@ -128,6 +128,10 @@ We have divided these in several categories that make them easier to digest.
 The accompanying book for this course is available [here](http://swarm.cs.pub.ro/~mbarbulescu/cripto/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf)
 * [Matasano Cryptopals](https://cryptopals.com/): This is a set of challenges on Cryptography, covering all the classical topics in Cryptology, this acts as a cherry on top of the above course.
 * [Cryptohack](https://cryptohack.org/): CryptoHack is a fun platform for learning cryptography. The emphasis is on breaking bad implementations of "modern" crypto, such as AES, RSA, and Elliptic-curve. 
+* [pwn.college](https://pwn.college/): A comprehensive, hands-on platform designed to teach Linux binary exploitation and systems security. The content is structured into dojos which are self contained courses about specific topics. Each dojo has a set of video lectures, reading materials and challenges of all difficulties. Going through these in order is a great way to get comfortable with pwn.
+* [Nightmare](https://guyinatuxedo.github.io/): It is an intro to binary exploitation / reverse engineering course based around ctf challenges. It uses writeups for past ctf challenges to teach various techniques. Extremely useful to get insights into approaching ctf challenges.
+* [ir0nstone's notes](https://ir0nstone.gitbook.io/notes): A structured, beginner-friendly guide dedicated to Linux binary exploitation. It breaks down memory corruption primitives (stack overflows, format strings, shellcraft, and basic heap) alongside exploit-mitigation bypasses (ASLR, NX, Canaries, PIE) using clear, minimal code examples and pwntools scripts. Great for building foundational mechanics from the ground up.
+* [ROP Emporium](https://ropemporium.com/): Contains a collection of ROP challenges covering the very basic ROP techniques to the more advanced ones. The availability of the challenges for different architectures like x86, x86_64, MIPS and ARMv5 is icing on the cake.
 
 ## Language Specific
 

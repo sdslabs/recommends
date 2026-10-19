@@ -142,6 +142,7 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 * [Go by Example](https://gobyexample.com/): Wondering where to start learning Go? The tutorials bore you as hell? Why not learn by implementing mini examples that will keep engrossed till the end. This website covers all the important topics from the classic Hello World to Goroutines to HTTP servers using annotated example programs.  
 * [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/): This Youtube channel features some popular as well as some unconventional takes on Go programming. From trying out Tensorflow Go to gRPC, it unfolds the potential of Go in an interesting way.
 * [Go Tour](https://tour.golang.org/): It's a concise introduction to the Go programming language. Teaches all the basic concepts of the language by writing short examples of code. If you're familiar with some other programming language, it's a nice way to dive into Go.
+* [Anthony GG]([https://tour.golang.org/](https://www.youtube.com/@anthonygg_/playlists)): Looking for intermediate-level project ideas to level up your Go skills? This YouTube channel dives into practical, hands-on implementations and architectural walkthroughs that offer great inspiration for building your own backend and systems software.
 
 ### Rust
 

@@ -33,7 +33,8 @@ We have divided these in several categories that make them easier to digest.
 ### 2. Competitive Programming
 #### <b>For Practice</b>
 * [Codeforces](https://codeforces.com/): Codeforces is an online competition platform for coding, improving your coding skills. At Codeforces, you can both practice and compete. Apart from this, there are also editorials and discussions where you can learn about new ways used by other peoples to solve a problem. 
-* [CodeChef](codechef.com): It is similar to Codeforces. The long challenges are beneficial for starters as it provides a ten-day window to solve 8-10 problems, so you can easily algorithms and implement them. 
+* [CodeChef](codechef.com): It is similar to Codeforces. The long challenges are beneficial for starters as it provides a ten-day window to solve 8-10 problems, so you can easily algorithms and implement them.
+* [CP-31](https://www.tle-eliminators.com/cp-sheet): This is a list of handpicked questions from codeforces. You can use this as a practice sheet to solve questions based on their rating.
 * Some other platforms: [AtCoder](https://atcoder.jp/), [A2oj](https://a2oj.com/)
 #### <b>For Theory</b>
 * [CP-Algorithms](https://cp-algorithms.com/): It described many algorithms and data structures, especially popular in the field of competitive programming. 
@@ -45,6 +46,7 @@ We have divided these in several categories that make them easier to digest.
 * [Android Tutorial for Beginnners](https://www.youtube.com/playlist?list=PLS1QulWo1RIbb1cYyzZpLFCKvdYV_yJ-E): Another brilliant tutorial but recently published making it in line with the newest Android concepts and incorporating them in the tutorial.
 * [CSN193A - Android App Developement](https://github.com/luong-komorebi/CS193A): A popular structured course material available freely for the ones who prefer text over videos. Really informative and hand crafted by a professon veteran in this field.
 * [Kotlin Development for beginners](https://www.youtube.com/watch?v=e7WIPwRd2s8&list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV): Another popular language for Android developent. Lately, this is gaining a lot of traction and a well quite many apps are being developed using Kotlin. This video series streamlines the learning and makes it fun.
+* [Flutter Docs](https://docs.flutter.dev/learn): An easy to learn framework for mobile dev for both ios and android. Has very detailed docs and is very beginner friendly.
 #### <b>iOS</b>
 * [Learn iOS Development](https://www.youtube.com/watch?v=xVPGQEHok74&list=PLpZBns8dFbgx0gr68lf-un9EjdmywTu4_): A good lecture series to begin with iOS app developement using Swift.
 
@@ -103,7 +105,8 @@ We have divided these in several categories that make them easier to digest.
 
 * [r/gamedev](https://www.reddit.com/r/gamedev/): r/GameDev on Reddit is a community of 400K+ game developers that shares the latest techniques, tips and news, all related to the AAA and indie game development industry. You will find interesting project displays, blogs and technical help in this subreddit, all at one place.
 * [Game Developers Conference](https://www.gdconf.com/): The Game Developers Conference (GDC) brings the game development community together to exchange ideas, solve problems, and shape the future of the industry across five days of education, inspiration, and networking. Attendees include programmers, artists, producers, game designers, audio professionals, and business leaders. Check out the talks that happen at GDC on [their YouTube channel](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ).
-* [Red Blob Games](https://www.redblobgames.com/): A site with great visual and interactive explanations of algorithms and data structures, mostly related to game development. A great place to learn and understand Procedural Generation/Textures. 
+* [Red Blob Games](https://www.redblobgames.com/): A site with great visual and interactive explanations of algorithms and data structures, mostly related to game development. A great place to learn and understand Procedural Generation/Textures.
+* [Brackeys YT channel](https://youtube.com/@brackeys?si=w8ZxfCKPiqNgAm13): Really good for getting into game dev and getting hands on experience.
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/): The best one-shot resource for learning OpenGL.

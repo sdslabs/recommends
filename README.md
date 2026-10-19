@@ -76,6 +76,7 @@ We have divided these in several categories that make them easier to digest.
 * [Devcon Archive - Ethereum in 30 minutes](https://archive.devcon.org/archive/watch/6/opening-ceremonies-vitalik/?playlist=Staff%20Picks&tab=YouTube): This is a highly insightful short video explaining the workings of the renowned blockchain platform, Ethereum. For more resources like this, the entire [Devcon Archive](https://archive.devcon.org/archive) hosts a lot of videos and articles covering various blockchain topics in depth.
 * [Inevitable Ethereum](https://inevitableeth.com/): A very beginner friendly guide to basics of blockchain, the consensus mechanisms (Proof of Stake and Proof of Work) and the EVM. Easy to read and follow. 
 * [Solidity Docs](https://docs.soliditylang.org/en/v0.8.28/): Solidity is the most widely preferred language for writing smart contracts and is considered one of the best languages for beginners to get started with in the blockchain space. 
+* [Grokking Bitcoin](https://rosenbaum.se/book/): A good conceptual guide that explain how Bitcoin works from the ground up.
 #### <b>Playground</b>
 * [Andersbrownworth Blockchain Playground](https://andersbrownworth.com/blockchain/): Play around and understand how blocks are created and shared after being hashed. Try to figure out how blockchains are immutable and require consensus to change itself.
 * [BlockchainDemo](https://blockchaindemo.io/): Play around to understand how blockchains work with multiple peers and blocks.
@@ -147,8 +148,10 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 ### Rust
 
 * [The Rust Programming Language - Book](https://doc.rust-lang.org/book/): This is a book that explains Rust concepts, including Ownership and Borrowing, the key concepts of the language, and is hosted by the official rust-lang.org website.
+* [Rustlings](https://rustlings.rust-lang.org/): These are good basic exercise which will help reading and writing Rust. (Recommended in parallel to [Official Rust Book](https://doc.rust-lang.org/book/))
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/): Teaches you Rust by creating, as evident by the title, many linked lists. From explaining the basic syntax to how memory is managed by Rust, this unofficial book covers everything. Beware, this does require some prior understanding of programming and data-structures like linked lists and stacks.
-
+* [Learn Rust](https://rust-lang.org/learn/): This contains further documentation like guide to the Rust standard library APIs, guide on Cargo (Rust's package manager and build system).
+* [Rust CookBook](https://rust-lang-nursery.github.io/rust-cookbook/): It is a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem. 
 ## Machine Learning and Deep Learning
 
 * [CS229 Machine Learning](http://cs229.stanford.edu/): Andrew NG’s CS229 Machine Learning, covers core machine learning topics very thoroughly, backed by mathematical reasoning and analogy.

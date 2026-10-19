@@ -131,6 +131,10 @@ The accompanying book for this course is available [here](http://swarm.cs.pub.ro
 ### C++
 
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject): TheCherno has been a quite valuable resource while developing our game engines, viz. [Rubeus](https://github.com/sdslabs/rootex) and [Rootex](https://github.com/sdslabs/rootex) (ongoing). This YouTube channel dives into advanced topics of C++ (although his earlier videos taught Java) occasionally while keeping a solid foundation based on just one thing: Building good C++ software. You will not find any random videos on things you will probably never use.
+* [learncpp](https://www.learncpp.com/): This website contains high quality articles about many C++ topics and can serve as a great reading resource to learn the language. It is structured like a book and contains topics in order which helps in structured learning. It teaches modern best practices, common pitfalls and language internals, thereby making it an excellent resource.
+* [CppCon](https://www.youtube.com/@CppCon): It is the premier annual conference for the global C++ community, featuring talks from standard committee members and industry engineers on modern language features, hardware-level performance, and systems architecture. The "Back To Basics" talks are extremely useful for intermediate C++ programmers to get a better hold of the language's internals.
+* [cppreference](https://cppreference.com/): A community maintained reference manual for the language. It is the equivalent of Wikipedia but for C++.
+* [Mike Shah](https://www.youtube.com/@MikeShah): Mike Shah’s C++ playlist is a self-contained masterclass running from syntax fundamentals to more advanced topics. He regularly pairs clean code examples with real-time walks through cppreference. He sometimes also uses tools like GDB and Valgrind while teaching runtime internals and memory related concepts which makes his videos even more enjoyable to watch. 
 
 ### Python
 

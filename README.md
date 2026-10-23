@@ -33,7 +33,8 @@ We have divided these in several categories that make them easier to digest.
 ### 2. Competitive Programming
 #### <b>For Practice</b>
 * [Codeforces](https://codeforces.com/): Codeforces is an online competition platform for coding, improving your coding skills. At Codeforces, you can both practice and compete. Apart from this, there are also editorials and discussions where you can learn about new ways used by other peoples to solve a problem. 
-* [CodeChef](codechef.com): It is similar to Codeforces. The long challenges are beneficial for starters as it provides a ten-day window to solve 8-10 problems, so you can easily algorithms and implement them. 
+* [CodeChef](codechef.com): It is similar to Codeforces. The long challenges are beneficial for starters as it provides a ten-day window to solve 8-10 problems, so you can easily algorithms and implement them.
+* [CP-31](https://www.tle-eliminators.com/cp-sheet): This is a list of handpicked questions from codeforces. You can use this as a practice sheet to solve questions based on their rating.
 * Some other platforms: [AtCoder](https://atcoder.jp/), [A2oj](https://a2oj.com/)
 #### <b>For Theory</b>
 * [CP-Algorithms](https://cp-algorithms.com/): It described many algorithms and data structures, especially popular in the field of competitive programming. 
@@ -45,6 +46,7 @@ We have divided these in several categories that make them easier to digest.
 * [Android Tutorial for Beginnners](https://www.youtube.com/playlist?list=PLS1QulWo1RIbb1cYyzZpLFCKvdYV_yJ-E): Another brilliant tutorial but recently published making it in line with the newest Android concepts and incorporating them in the tutorial.
 * [CSN193A - Android App Developement](https://github.com/luong-komorebi/CS193A): A popular structured course material available freely for the ones who prefer text over videos. Really informative and hand crafted by a professon veteran in this field.
 * [Kotlin Development for beginners](https://www.youtube.com/watch?v=e7WIPwRd2s8&list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV): Another popular language for Android developent. Lately, this is gaining a lot of traction and a well quite many apps are being developed using Kotlin. This video series streamlines the learning and makes it fun.
+* [Flutter Docs](https://docs.flutter.dev/learn): An easy to learn framework for mobile dev for both ios and android. Has very detailed docs and is very beginner friendly.
 #### <b>iOS</b>
 * [Learn iOS Development](https://www.youtube.com/watch?v=xVPGQEHok74&list=PLpZBns8dFbgx0gr68lf-un9EjdmywTu4_): A good lecture series to begin with iOS app developement using Swift.
 
@@ -76,6 +78,7 @@ We have divided these in several categories that make them easier to digest.
 * [Devcon Archive - Ethereum in 30 minutes](https://archive.devcon.org/archive/watch/6/opening-ceremonies-vitalik/?playlist=Staff%20Picks&tab=YouTube): This is a highly insightful short video explaining the workings of the renowned blockchain platform, Ethereum. For more resources like this, the entire [Devcon Archive](https://archive.devcon.org/archive) hosts a lot of videos and articles covering various blockchain topics in depth.
 * [Inevitable Ethereum](https://inevitableeth.com/): A very beginner friendly guide to basics of blockchain, the consensus mechanisms (Proof of Stake and Proof of Work) and the EVM. Easy to read and follow. 
 * [Solidity Docs](https://docs.soliditylang.org/en/v0.8.28/): Solidity is the most widely preferred language for writing smart contracts and is considered one of the best languages for beginners to get started with in the blockchain space. 
+* [Grokking Bitcoin](https://rosenbaum.se/book/): A good conceptual guide that explain how Bitcoin works from the ground up.
 #### <b>Playground</b>
 * [Andersbrownworth Blockchain Playground](https://andersbrownworth.com/blockchain/): Play around and understand how blocks are created and shared after being hashed. Try to figure out how blockchains are immutable and require consensus to change itself.
 * [BlockchainDemo](https://blockchaindemo.io/): Play around to understand how blockchains work with multiple peers and blocks.
@@ -102,7 +105,8 @@ We have divided these in several categories that make them easier to digest.
 
 * [r/gamedev](https://www.reddit.com/r/gamedev/): r/GameDev on Reddit is a community of 400K+ game developers that shares the latest techniques, tips and news, all related to the AAA and indie game development industry. You will find interesting project displays, blogs and technical help in this subreddit, all at one place.
 * [Game Developers Conference](https://www.gdconf.com/): The Game Developers Conference (GDC) brings the game development community together to exchange ideas, solve problems, and shape the future of the industry across five days of education, inspiration, and networking. Attendees include programmers, artists, producers, game designers, audio professionals, and business leaders. Check out the talks that happen at GDC on [their YouTube channel](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ).
-* [Red Blob Games](https://www.redblobgames.com/): A site with great visual and interactive explanations of algorithms and data structures, mostly related to game development. A great place to learn and understand Procedural Generation/Textures. 
+* [Red Blob Games](https://www.redblobgames.com/): A site with great visual and interactive explanations of algorithms and data structures, mostly related to game development. A great place to learn and understand Procedural Generation/Textures.
+* [Brackeys YT channel](https://youtube.com/@brackeys?si=w8ZxfCKPiqNgAm13): Really good for getting into game dev and getting hands on experience.
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/): The best one-shot resource for learning OpenGL.
@@ -124,30 +128,42 @@ We have divided these in several categories that make them easier to digest.
 The accompanying book for this course is available [here](http://swarm.cs.pub.ro/~mbarbulescu/cripto/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf)
 * [Matasano Cryptopals](https://cryptopals.com/): This is a set of challenges on Cryptography, covering all the classical topics in Cryptology, this acts as a cherry on top of the above course.
 * [Cryptohack](https://cryptohack.org/): CryptoHack is a fun platform for learning cryptography. The emphasis is on breaking bad implementations of "modern" crypto, such as AES, RSA, and Elliptic-curve. 
+* [pwn.college](https://pwn.college/): A comprehensive, hands-on platform designed to teach Linux binary exploitation and systems security. The content is structured into dojos which are self contained courses about specific topics. Each dojo has a set of video lectures, reading materials and challenges of all difficulties. Going through these in order is a great way to get comfortable with pwn.
+* [Nightmare](https://guyinatuxedo.github.io/): It is an intro to binary exploitation / reverse engineering course based around ctf challenges. It uses writeups for past ctf challenges to teach various techniques. Extremely useful to get insights into approaching ctf challenges.
+* [ir0nstone's notes](https://ir0nstone.gitbook.io/notes): A structured, beginner-friendly guide dedicated to Linux binary exploitation. It breaks down memory corruption primitives (stack overflows, format strings, shellcraft, and basic heap) alongside exploit-mitigation bypasses (ASLR, NX, Canaries, PIE) using clear, minimal code examples and pwntools scripts. Great for building foundational mechanics from the ground up.
+* [ROP Emporium](https://ropemporium.com/): Contains a collection of ROP challenges covering the very basic ROP techniques to the more advanced ones. The availability of the challenges for different architectures like x86, x86_64, MIPS and ARMv5 is icing on the cake.
 
 ## Language Specific
 
 ### C++
 
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject): TheCherno has been a quite valuable resource while developing our game engines, viz. [Rubeus](https://github.com/sdslabs/rootex) and [Rootex](https://github.com/sdslabs/rootex) (ongoing). This YouTube channel dives into advanced topics of C++ (although his earlier videos taught Java) occasionally while keeping a solid foundation based on just one thing: Building good C++ software. You will not find any random videos on things you will probably never use.
+* [learncpp](https://www.learncpp.com/): This website contains high quality articles about many C++ topics and can serve as a great reading resource to learn the language. It is structured like a book and contains topics in order which helps in structured learning. It teaches modern best practices, common pitfalls and language internals, thereby making it an excellent resource.
+* [CppCon](https://www.youtube.com/@CppCon): It is the premier annual conference for the global C++ community, featuring talks from standard committee members and industry engineers on modern language features, hardware-level performance, and systems architecture. The "Back To Basics" talks are extremely useful for intermediate C++ programmers to get a better hold of the language's internals.
+* [cppreference](https://cppreference.com/): A community maintained reference manual for the language. It is the equivalent of Wikipedia but for C++.
+* [Mike Shah](https://www.youtube.com/@MikeShah): Mike Shah’s C++ playlist is a self-contained masterclass running from syntax fundamentals to more advanced topics. He regularly pairs clean code examples with real-time walks through cppreference. He sometimes also uses tools like GDB and Valgrind while teaching runtime internals and memory related concepts which makes his videos even more enjoyable to watch. 
 
 ### Python
 
 * [Sentdex](https://www.youtube.com/user/sentdex): Sentdex makes beginner friendly videos about everything python. From basic python, to Flask and Django, to Deep learning and sentiment analysis. Sentdex has got it all covered and is a great resource for anyone looking to familiarize themselves with python
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): Well, let's say you are py newbie. But you have a fire within to 'Build Things'. And you are to lazy to go down the long way. Then here's the place for you. An application based approach to learn one of the most popular programming languages.
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/): Learn python practically with this course.
+* [Corey Schafer](https://www.youtube.com/@coreyms): His Python videos are extremely comprehensive. He uses great examples to familiarize the viewer with the syntax as well as the motivation behind the various features of the language. 
 
 ### Go
 
 * [Go by Example](https://gobyexample.com/): Wondering where to start learning Go? The tutorials bore you as hell? Why not learn by implementing mini examples that will keep engrossed till the end. This website covers all the important topics from the classic Hello World to Goroutines to HTTP servers using annotated example programs.  
 * [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/): This Youtube channel features some popular as well as some unconventional takes on Go programming. From trying out Tensorflow Go to gRPC, it unfolds the potential of Go in an interesting way.
 * [Go Tour](https://tour.golang.org/): It's a concise introduction to the Go programming language. Teaches all the basic concepts of the language by writing short examples of code. If you're familiar with some other programming language, it's a nice way to dive into Go.
+* [Anthony GG](https://www.youtube.com/@anthonygg_/playlists): Looking for intermediate-level project ideas to level up your Go skills? This YouTube channel dives into practical, hands-on implementations and architectural walkthroughs that offer great inspiration for building your own backend and systems software.
 
 ### Rust
 
 * [The Rust Programming Language - Book](https://doc.rust-lang.org/book/): This is a book that explains Rust concepts, including Ownership and Borrowing, the key concepts of the language, and is hosted by the official rust-lang.org website.
+* [Rustlings](https://rustlings.rust-lang.org/): These are good basic exercise which will help reading and writing Rust. (Recommended in parallel to [Official Rust Book](https://doc.rust-lang.org/book/))
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/): Teaches you Rust by creating, as evident by the title, many linked lists. From explaining the basic syntax to how memory is managed by Rust, this unofficial book covers everything. Beware, this does require some prior understanding of programming and data-structures like linked lists and stacks.
-
+* [Learn Rust](https://rust-lang.org/learn/): This contains further documentation like guide to the Rust standard library APIs, guide on Cargo (Rust's package manager and build system).
+* [Rust CookBook](https://rust-lang-nursery.github.io/rust-cookbook/): It is a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem. 
 ## Machine Learning and Deep Learning
 
 * [CS229 Machine Learning](http://cs229.stanford.edu/): Andrew NG’s CS229 Machine Learning, covers core machine learning topics very thoroughly, backed by mathematical reasoning and analogy.
